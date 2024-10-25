@@ -47,6 +47,12 @@ export const aboutList3 = [
     year: '2014-2018',
     course: 'Bachelor in Banking and Finance',
   },
+  {
+    id: 2,
+    school: 'GoIT Bootcamp',
+    year: '2023-2024',
+    course: 'Full Stack Developer',
+  }
 ];
 export const aboutList4 = [
   {
