@@ -57,12 +57,6 @@ export const aboutList3 = [
 export const aboutList4 = [
   {
     id: 1,
-    company: 'GoIT Bootcamp',
-    year: '2023-2024',
-    position: 'Full Stack Developer',
-  },
-  {
-    id: 2,
     company: 'JP Morgan Chase & Co.',
     year: '2019-2023',
     position: 'Specialty Products Specialist - Trade Finance'
