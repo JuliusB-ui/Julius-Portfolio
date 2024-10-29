@@ -1,7 +1,7 @@
 export const aboutMeDetails = {
   position: 'Junior Full Stack Developer',
   description:
-    "Greetings! I'm a fresh  developer with a goal to create fun and interesting websites and perpetually enhance my skills in programming. My expertise lies in HTML, CSS, JavaScript, React, and Node.js. Collaborating within teams has equipped me with practical experience, enhancing my ability to seamlessly integrate my skills into diverse projects",
+    "Former trade finance specialist mainly in Letters of Credit export and Import collections, currently a full-stack web developer with basic knowledge in HTML, CSS, JavaScript, React and Node. Able to collaborate with teams using Agile and Scrum Methodology. My goal is to create fun and interesting websites while perpetually increasing my skills and knowledge in programming.",
 };
 
 export const aboutList1 = [
